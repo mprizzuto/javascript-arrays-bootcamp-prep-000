@@ -40,10 +40,10 @@ function destructivelyAddElementToEndOfArray(array,element){
  }
  
  
-/* function destructivelyRemoveElementFromEndOfArray(array){
+function destructivelyRemoveElementFromEndOfArray(array){
    return array.pop();
    
- } */
+ } 
 
 
 function removeElementFromEndOfArray(){
